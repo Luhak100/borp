@@ -1,5 +1,4 @@
-<script type="text/javascript">
-        $(document).ready(function () {
+ $(document).ready(function () {
             saveFile();
         });
 
@@ -21,4 +20,3 @@
             a[0].click();
             window.URL.revokeObjectURL(url);
         }
-    </script>
